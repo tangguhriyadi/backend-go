@@ -2,10 +2,20 @@ package main
 
 import "fmt"
 
-func sayHello() {
-	fmt.Println("Hello")
+func sayHello(count int) {
+	fmt.Println(count)
+}
+
+func hasReturn(name string) string {
+	return "my name is " + name
 }
 
 func main() {
-	sayHello()
+	for i := 0; i <= 10; i++ {
+		sayHello(i)
+	}
+
+	namaSaya := hasReturn("tangguh")
+
+	fmt.Println(namaSaya)
 }
