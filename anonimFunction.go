@@ -1,4 +1,4 @@
-package main
+/* package main
 
 import "fmt"
 
@@ -20,3 +20,4 @@ func main() {
 	registerUser("admin", blacklist)
 
 }
+*/

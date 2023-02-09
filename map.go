@@ -1,4 +1,4 @@
-package main
+/* package main
 
 import "fmt"
 
@@ -39,15 +39,8 @@ func main() {
 		fmt.Println("TIDAK")
 	}
 
-	/* count := 1
-
-	for count < 10 {
-		fmt.Println(count)
-		count++
-	} */
-
 	for count := 1; count <= 10; count++ {
 		fmt.Println(count)
 	}
 
-}
+} */
