@@ -1,4 +1,4 @@
-package main
+/* package main
 
 import (
 	"errors"
@@ -22,3 +22,4 @@ func main() {
 		fmt.Println(err.Error())
 	}
 }
+*/
