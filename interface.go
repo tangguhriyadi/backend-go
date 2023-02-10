@@ -1,4 +1,4 @@
-package main
+/* package main
 
 import "fmt"
 
@@ -41,3 +41,4 @@ func main() {
 	kosong := Ups()
 	fmt.Println(kosong)
 }
+*/
